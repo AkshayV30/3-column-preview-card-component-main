@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/AkshayV30/3-column-preview-card-component-main)
+- Live Site URL: [Live site](https://akshayv30.github.io/3-column-preview-card-component-main/)
 
 ### Built with
 
@@ -62,7 +62,7 @@ I learned to work with css feature especially with psuedo class, to add few hove
 
 ## Author
 
-- Website - [Akshay Minz](https://www.your-site.com)
+- Website - [Akshay Minz](https://akshayv30.github.io/3-column-preview-card-component-main/)
 - Frontend Mentor - [@AkshayV30](https://www.frontendmentor.io/profile/AkshayV30)
 
 
